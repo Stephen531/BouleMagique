@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+      xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item
+        android:id="@+id/Accueil"
+        android:icon="@drawable/ic_accueil"
+        android:title="Accueil"
+        app:showAsAction="ifRoom"/>
+
+    <item
+        android:id="@+id/BouleMagique"
+        android:icon="@drawable/ball"
+        android:title="Magique Ball"
+        app:showAsAction="ifRoom"/>
+
+</menu>
